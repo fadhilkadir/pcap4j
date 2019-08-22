@@ -1,0 +1,4 @@
+
+compile: java -cp jars/pcap4j-core.jar:/jars/jna-5.4.0.jar:jars/slf4j-api-1.7.28.jar: testLoop icmp
+
+sudo java -cp jars/pcap4j-core.jar:jars/jna-5.4.0.jar:jars/slf4j-api-1.7.28.jar: testLoop icmp
