@@ -1,3 +1,18 @@
+by fk
+
+forked from [kaitoy/pcap4j](https://github.com/kaitoy/pcap4j)
+
+tested on Java 12 (Ubuntu Studio and Ubuntu Mate 18.04 64-bit)
+
+modified pom.xml and pcap4j-packettest/pom.xml --> originally had error version 6 not supported
+
+added toolchains.xml which was put in ~/.m2
+
+test folder added -- have only test Loop
+
+
+---------------------------------------------------------------------------------------------------
+
 [Japanese](/README_ja.md)
 
 <img alt="Pcap4J" title="Pcap4J" src="https://github.com/kaitoy/pcap4j/raw/v1/www/images/logos/pcap4j-logo-color.png" width="70%" style="margin: 0px auto; display: block;" />
